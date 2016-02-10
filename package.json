@@ -1,0 +1,30 @@
+{
+  "name": "streambench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bench.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyuka/streambench.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyuka/streambench/issues"
+  },
+  "private": true,
+  "homepage": "https://github.com/soyuka/streambench#readme",
+  "dependencies": {
+    "@soyuka/jhaml": "^1.0.5",
+    "bench": "^0.3.6",
+    "benchmark": "^2.1.0",
+    "jhaml": "0.0.15",
+    "pace": "git@github.com:soyuka/pace",
+    "pidusage": "^1.0.1",
+    "relieve": "^1.0.2"
+  }
+}
